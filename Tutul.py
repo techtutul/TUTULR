@@ -38,12 +38,12 @@ def jalan(z):
 ##### LOGO #####
 logo = """
    Toxic Tutul
-   ▄︻̷̿┻̿═━一
-   THE ANONYMOUS TOXICTUTUL TRICKER 
+ 
+  THE ANONYMOUS TOXICTUTUL TRICKER 
    THE LEGEND TUTUL
    THE GAME CHANGER TUTUL
    bangladeshe hackers
-   ℒℴνℯ ▄︻̷̿┻̿═━一
+  
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mTOXIC TUTUL
 \033[1;96mYouTube \033[1;93m: \033[1;92mtechtutul
